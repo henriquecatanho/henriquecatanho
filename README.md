@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Henrique Catanho
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Henrique Catanho — 20 anos
 Estudante de Ciência da Computação na FIB Bauru, com foco em desenvolvimento web. Possuo especialização em Front-end, atuando também no Back-end com integrações em Java, desenvolvimento de controllers, robôs automatizados e manipulação de bancos de dados SQL. Tenho experiência na construção de aplicações web completas, integrando interface, lógica de negócio e persistência de dados, com boas práticas de desenvolvimento e versionamento de código.
